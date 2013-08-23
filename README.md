@@ -2,7 +2,7 @@ IKAROS
 =============
 
 Developer	: Deepak Ananth Rama
-email		: deepakar@icloud.com
+email		: deepak.ananthrama@gmail.com
 Date		: May 2009
 
 Developed for	: Graphics Mini-Project
